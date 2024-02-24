@@ -13,7 +13,7 @@
 // console.log(rest);
 // --------------------------------------------
 //spread operator on objects
-const myVehicle = {
+const myVehicle = {         
     brand : 'ford',
     model : 'mustang',
     color: 'yellow'
